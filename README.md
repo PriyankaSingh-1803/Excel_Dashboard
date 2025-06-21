@@ -50,5 +50,9 @@ Use intuitive slicers for real-time drilldowns by category, region, or method â€
 
 ## Download dataset 
 
+The dataset used in this project is available here:  
+ðŸ“¥ [Download the Excel Dashboard Dataset](https://github.com/PriyankaSingh-1803/Excel_Dashboard/blob/main/Excel%2Bdashboard_Dataset.xlsx)
+
+
 
 
