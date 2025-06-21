@@ -54,5 +54,12 @@ The dataset used in this project is available here:
 📥 [Download the Excel Dashboard Dataset](https://github.com/PriyankaSingh-1803/Excel_Dashboard/blob/main/Excel%2Bdashboard_Dataset.xlsx)
 
 
+![Dashboard_Insights](https://github.com/user-attachments/assets/d4d6100f-8bec-4328-81a2-593bc938a0cd)
+
+##  Conclusion
+
+This Excel Business Intelligence Dashboard project demonstrates the power of data visualization and analysis using simple yet impactful tools. By integrating dynamic charts, slicers, and interactive elements, it enables quick insights into revenue, profit, expenses, and operational metrics. Ideal for business users and analysts alike, this dashboard turns raw data into actionable intelligence for smarter decision-making.
+
+
 
 
